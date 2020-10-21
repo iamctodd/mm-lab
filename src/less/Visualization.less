@@ -1,0 +1,56 @@
+text {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;
+  cursor: default;
+}
+.block {
+  &:hover {
+    stroke: @main;
+    stroke-width: 1px;
+  };
+}
+.lines {
+  stroke: #ced4da;
+}
+.month-path {
+  stroke: @main;
+  stroke-width: 1.5px;
+  shape-rendering: crispEdges;
+  fill: none;
+}
+.month-text {
+  font-size: 14px;
+  alignment-baseline: hanging;
+}
+.day-text {
+  font-size: 14px;
+  alignment-baseline: central;
+  text-anchor: end;
+}
+.label-text {
+  font-size: 14px;
+  alignment-baseline: central;
+}
+
+.axis path {
+  stroke: none;
+}
+.tick {
+  line {
+    stroke: fade(@main, 20%);
+  }
+  text {
+    font-size: 12px;
+  }
+}
+
+.bg {
+  fill: @main;
+}
+.tp {
+  font-weight: normal;
+  font-size: 14px;
+  fill: #FFF;
+}
