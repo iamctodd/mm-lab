@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Blocks from './vis/Blocks.js';
-import {HorizontalLines, VerticalLines} from './vis/Lines.js';
+import {HorizontalLines} from './vis/Lines.js';
 import DayTexts from './vis/DayTexts.js';
 import MonthPaths from './vis/MonthPaths.js';
 import ToolTip from './vis/ToolTip.js';

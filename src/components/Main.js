@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import Legend from './vis/Legend';
 import Calendar from './Calendar';
 import {getCalendar} from './../processors/analysis';
-import {capitalize} from './../processors/formats';
 import {getColorBrewer, getTwoColorsBrewer} from './../processors/colors';
 import {Icon} from 'react-fa';
 
