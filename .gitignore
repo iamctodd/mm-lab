@@ -16,7 +16,6 @@ npm-debug.log
 
 package-lock.json
 
-src/data/*.json
 src/settings/*.json
 !src/settings/datasets.json
 !src/*/tanyofish-*.json
