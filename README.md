@@ -1,8 +1,8 @@
 # Quantify Your Year
-Calendar-based visualization of one kind of activity over the course of a calendar year
+Calendar-based visualization of an activity over the course of a calendar year
 
 ## URL and Datasets
-The URL would be ```your_project_address/#/[AUTHOR]-[ACTIVITY_TOPIC]-[YEAR]```.
+The URL would be ```your_project_address/#/[PERSON]-[ACTIVITY_TOPIC]-[YEAR]```.
 Name your setting and data files following the convention above (e.g., tanyoung-swimming-2016.json).
 
 Also update ```src/settings/datasets.json``` if you want to show this dataset in the selection menu on top of the page.
