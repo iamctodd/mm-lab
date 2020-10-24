@@ -1,0 +1,16 @@
+{
+  "year":2019,
+  "author":"ZROBOT",
+  "topic":"utilization",
+  "pastVerb":"was utilized",
+  "type":"usage",
+  "metric":"%",
+  "dataSource":{
+    "name":"MM",
+    "url":"https://www.machinemetrics.com/"
+  },
+  "decimal":1,
+  "hasNegative":false,
+  "isReverse":true,
+  "considerFrequency":false
+}
