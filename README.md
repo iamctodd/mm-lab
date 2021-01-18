@@ -3,7 +3,9 @@ Calendar-based visualization of an activity over the course of a calendar year
 
 
 ————————————————————————————————————
+
 Readme from the cloned repo follows
+
 ————————————————————————————————————
 
 ## URL and Datasets
